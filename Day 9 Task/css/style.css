@@ -1,0 +1,84 @@
+header {
+  text-align: center;
+  padding: 32px;
+  font-family: "Fira Sans", sans-serif;
+  font-size: 40px;
+  color: blueviolet;
+}
+
+.header-img {
+  width: 300px;
+}
+
+main {
+  background-color: rgb(122, 74, 218);
+  padding: 32px;
+  width: 700px;
+  margin: 32px auto;
+  border-radius: 8px;
+  font-family: "Fira Sans", sans-serif;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(36, 3, 102);
+  background-color: rgb(255, 237, 177);
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+a:hover,
+a:active {
+  background-color: rgb(250, 201, 39);
+}
+
+h2 {
+  font-family: "Fira Sans", sans-serif;
+  font-size: 30px;
+  color: white;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  margin: 14px 0;
+  padding-left: 10px;
+  border-left: 5px solid transparent;
+}
+
+.extra-important {
+  color: rgb(255, 237, 177);
+  border-color: rgb(255, 209, 85);
+}
+
+.highlight {
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+  border-radius: 4px;
+  font-family: "Fira Sans", sans-serif;
+}
+
+footer p {
+  margin-top: 30px;
+  color: rgb(131, 113, 149);
+}
+
+footer a {
+  padding: 12px 20px;
+  border-radius: 8px;
+  background-color: rgb(250, 201, 39);
+  color: rgb(66, 51, 4);
+}
+
+footer a:hover,
+footer a:active {
+  background-color: rgb(255, 186, 58);
+}

@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  background-color: rgb(233, 215, 207);
+  margin: 50px;
+}
+
+h1 {
+  font-family: "Oswald", sans-serif;
+
+  color: blueviolet;
+}
+p {
+  color: black;
+  font-family: "Fira Sans", sans-serif;
+}
+a {
+  color: rgb(167, 1, 78);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+#todays-challenge {
+  color: rgb(1170, 96, 83);
+  text-decoration: solid;
+  font-weight: bold;
+  font-size: 52px;
+}
+#todays-challenge:hover {
+  color: aqua;
+  font-weight: bold;
+}
+#lucca-dog {
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+}
+
+/*  font-family: 'Fira Sans', sans-serif;
+    font-family: 'Oswald', sans-serif; */

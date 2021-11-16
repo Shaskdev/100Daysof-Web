@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(233, 215, 207);
+    margin: 50px;
+  }
+  
+  h1 {
+    font-family: "Oswald", sans-serif;
+    color: blueviolet;
+    text-align: center;
+  }
+  
+  p {
+    font-family: "Fira Sans", sans-serif;
+  }
+  
+  li {
+    font-family: "Fira Sans", sans-serif;
+    text-align: justify;
+    list-style: circle;
+  }
+
+  #back-home {
+    text-align: left;
+  }
+  
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    color: coral;
+  }
+  
